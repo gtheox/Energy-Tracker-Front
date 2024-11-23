@@ -38,3 +38,5 @@ Dependências Adicionais
 bash
 Copiar código
 npm install next/image react-icons
+
+**Link video apresentação do projeto: https://youtu.be/_HxTn-QhG_0**
