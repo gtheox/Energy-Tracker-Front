@@ -40,3 +40,4 @@ Copiar código
 npm install next/image react-icons
 
 **Link video apresentação do projeto: https://youtu.be/_HxTn-QhG_0**
+**Link repositório github: https://github.com/gtheox/Energy-Tracker-Front.git**
